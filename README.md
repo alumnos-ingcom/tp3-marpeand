@@ -1,5 +1,5 @@
 # Trabajo Practico #3
-Plantilla base y archivos de trabajo para el TP3
+Mariano Perez | archivos de trabajo para el TP3
 
 ## Script 1
 
